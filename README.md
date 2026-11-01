@@ -52,7 +52,23 @@ Network-Packet-Sniffer/
 
 ## 📊 Project Documentation
 
-Screenshots, testing evidence, technical documentation, and additional project information will be added to this repository.
+## 📸 Application Screenshots
+
+### Main Interface
+
+![Network Packet Sniffer main interface](screenshots/main-interface.png)
+
+### Live Packet Capture
+
+![Live packet capture](screenshots/packet-capture.png)
+
+### Security Alert Detection
+
+![Security alert detection](screenshots/security-alert.png)
+
+### CSV Export File Output
+
+![CSV Export file](screenshots/CSV-Export.png)
 
 ## ⚠️ Disclaimer
 
