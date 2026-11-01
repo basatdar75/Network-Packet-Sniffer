@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IDE settings
+.idea/
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Additional temporary files
+*.tmp
