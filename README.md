@@ -65,7 +65,6 @@ Network-Packet-Sniffer/
 └── .gitignore
 ```
 
-## 📊 Project Documentation
 
 ## 📸 Application Screenshots
 
