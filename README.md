@@ -37,6 +37,21 @@ The application includes basic signature-based detection capabilities for identi
 - TCP/IP
 - CSV
 
+  
+## 🏗️ Application Workflow
+
+The application follows a four-stage workflow:
+
+1. **Capture:** Capture live network packets through the selected network interface using Scapy.
+2. **Analyze:** Extract packet information, including source IP, destination IP, protocol, and ports.
+3. **Detect:** Apply basic signature-based rules to identify potentially suspicious network activity.
+4. **Export:** Export captured packet information into CSV format for further analysis.
+
+### Processing Pipeline
+
+Network Interface → Packet Capture → Packet Analysis → Security Detection → CSV Export
+
+
 ## 📂 Repository Structure
 
 ```text
